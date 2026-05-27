@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm CJ 👋
+
+Industrial & Systems Engineering graduate from NUS, currently focused on cloud infrastructure and platform engineering.
+
+🔭 Currently learning: AWS, Terraform, Kubernetes  
+✍️ Writing at: [blog URL will go here in week 1]  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tai-chen-jie-267034217/)
 
 <!--
 **taichenjie/taichenjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
