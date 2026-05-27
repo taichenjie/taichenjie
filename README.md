@@ -3,7 +3,7 @@
 Industrial & Systems Engineering graduate from NUS, currently focused on cloud infrastructure and platform engineering.
 
 🔭 Currently learning: AWS, Terraform, Kubernetes  
-✍️ Writing at: [blog URL will go here in week 1]  
+✍️ Writing at: (https://devops-blog-psi.vercel.app/) 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tai-chen-jie-267034217/)
 
 <!--
